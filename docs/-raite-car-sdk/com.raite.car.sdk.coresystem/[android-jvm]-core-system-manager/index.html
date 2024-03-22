@@ -65,30 +65,7 @@
   <div class="breadcrumbs"><a href="../../../index.html">RaiteCarSdk</a><span class="delimiter">/</span><a href="../index.html">com.raite.car.sdk.coresystem</a><span class="delimiter">/</span><span class="current">[androidJvm]CoreSystemManager</span></div>
   <div class="cover ">
     <h1 class="cover"><span>Core</span><wbr></wbr><span>System</span><wbr></wbr><span><span>Manager</span></span></h1>
-    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":sdk:dokkaHtml/release"><div class="symbol monospace"><span class="token keyword">class </span><a href="index.html">CoreSystemManager</a></div><p class="paragraph">CoreSystemServer用于启动和记录定制模块的进程， 通过解析配置文件，开机后自动按需拉起某些模块进程。</p><h4 class="">Samples</h4><div class="sample-container"><pre><code class="runnablesample monospace block lang-kotlin" theme="idea">import com.raite.car.sdk.coresystem.CoreSystemListener
-import com.raite.car.sdk.coresystem.CoreSystemManager
-fun main() { 
-   //sampleStart 
-   class CoreSystemSample {
-
-    fun registerCoreSystemListenerSample(){
-        val manager = CoreSystemManager.instance
-        val listener = object :CoreSystemListener{
-            override fun onServiceStarted(name: String?) {
-            }
-
-            override fun onServiceRestarted(name: String?) {
-            }
-
-            override fun onMainServiceStarted() {
-            }
-        }
-        manager.registerServiceStateListener(listener)
-    }
-
-} 
-   //sampleEnd
-}</code></pre></div></div></div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":sdk:dokkaHtml/release"><div class="symbol monospace"><span class="token keyword">class </span><a href="index.html">CoreSystemManager</a></div><p class="paragraph">CoreSystemServer用于启动和记录定制模块的进程， 通过解析配置文件，开机后自动按需拉起某些模块进程。</p><h4 class="">Samples</h4>com.raite.car.sdk.sample.CoreSystemSample</div></div>
   </div>
   <div class="tabbedcontent">
     <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>

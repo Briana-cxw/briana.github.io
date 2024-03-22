@@ -66,24 +66,7 @@
   <div class="cover ">
     <h1 class="cover"><span>register</span><wbr></wbr><span>Service</span><wbr></wbr><span>State</span><wbr></wbr><span><span>Listener</span></span></h1>
   </div>
-  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":sdk:dokkaHtml/release"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="register-service-state-listener.html"><span class="token function">registerServiceStateListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="../[android-jvm]-core-system-listener/index.html">CoreSystemListener</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div><p class="paragraph">Register a listener to listen the start/stop of a core service.</p><h4 class="">Parameters</h4><div class="table"><div class="table-row" data-filterable-current=":sdk:dokkaHtml/release" data-filterable-set=":sdk:dokkaHtml/release"><div class="main-subrow keyValue "><div class=""><span class="inline-flex"><div><u><span><span>listener</span></span></u></div></span></div><div><div class="title"><p class="paragraph">the listener</p></div></div></div></div></div><h4 class="">Samples</h4><div class="sample-container"><pre><code class="runnablesample monospace block lang-kotlin" theme="idea">import com.raite.car.sdk.coresystem.CoreSystemListener
-import com.raite.car.sdk.coresystem.CoreSystemManager
-fun main() { 
-   //sampleStart 
-   val manager = CoreSystemManager.instance
-val listener = object :CoreSystemListener{
-    override fun onServiceStarted(name: String?) {
-    }
-
-    override fun onServiceRestarted(name: String?) {
-    }
-
-    override fun onMainServiceStarted() {
-    }
-}
-manager.registerServiceStateListener(listener) 
-   //sampleEnd
-}</code></pre></div></div></div>
+  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":sdk:dokkaHtml/release"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">fun </span><a href="register-service-state-listener.html"><span class="token function">registerServiceStateListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="../[android-jvm]-core-system-listener/index.html">CoreSystemListener</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div><p class="paragraph">Register a listener to listen the start/stop of a core service.</p><h4 class="">Parameters</h4><div class="table"><div class="table-row" data-filterable-current=":sdk:dokkaHtml/release" data-filterable-set=":sdk:dokkaHtml/release"><div class="main-subrow keyValue "><div class=""><span class="inline-flex"><div><u><span><span>listener</span></span></u></div></span></div><div><div class="title"><p class="paragraph">the listener</p></div></div></div></div></div><h4 class="">Samples</h4>com.raite.car.sdk.sample.CoreSystemSample.registerCoreSystemListenerSample</div></div>
 </div>
       <div class="footer">
         <span class="go-to-top-icon"><a href="#content" id="go-to-top-link"></a></span><span>© 2024 Copyright</span><span

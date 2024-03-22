@@ -21,19 +21,10 @@ $dokka.location:com.raite.car.sdk.proc/ProcManager/divide/#double#double/Pointin
 $dokka.location:com.raite.car.sdk.proc/ProcManager/square/#int/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk.proc/[android-jvm]-proc-manager/square.html
 $dokka.location:com.raite.car.sdk.proc/ProcManagerListener///PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk.proc/[android-jvm]-proc-manager-listener/index.html
 $dokka.location:com.raite.car.sdk.proc/ProcManagerListener/ProcManagerListener/#/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk.proc/[android-jvm]-proc-manager-listener/-proc-manager-listener.html
-$dokka.location:com.raite.car.sdk.sample////PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk.sample/index.html
-$dokka.location:com.raite.car.sdk.sample/CoreSystemSample///PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk.sample/[android-jvm]-core-system-sample/index.html
-$dokka.location:com.raite.car.sdk.sample/CoreSystemSample/CoreSystemSample/#/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk.sample/[android-jvm]-core-system-sample/-core-system-sample.html
-$dokka.location:com.raite.car.sdk.sample/CoreSystemSample/registerCoreSystemListenerSample/#/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk.sample/[android-jvm]-core-system-sample/register-core-system-listener-sample.html
 $dokka.location:com.raite.car.sdk////PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/index.html
 $dokka.location:com.raite.car.sdk/CarManagerBase///PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-car-manager-base/index.html
 $dokka.location:com.raite.car.sdk/CarManagerBase/CarManagerBase/#java.lang.String/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-car-manager-base/-car-manager-base.html
 $dokka.location:com.raite.car.sdk/CarManagerBase/handleRemoteExceptionFromCarService/#android.os.RemoteException#T/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-car-manager-base/handle-remote-exception-from-car-service.html
-$dokka.location:com.raite.car.sdk/ExampleInstrumentedTest///PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-example-instrumented-test/index.html
-$dokka.location:com.raite.car.sdk/ExampleInstrumentedTest/ExampleInstrumentedTest/#/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-example-instrumented-test/-example-instrumented-test.html
-$dokka.location:com.raite.car.sdk/ExampleInstrumentedTest/getTestManager/#/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-example-instrumented-test/get-test-manager.html
-$dokka.location:com.raite.car.sdk/ExampleInstrumentedTest/testStopSubService/#/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-example-instrumented-test/test-stop-sub-service.html
-$dokka.location:com.raite.car.sdk/ExampleInstrumentedTest/useAppContext/#/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-example-instrumented-test/use-app-context.html
 $dokka.location:com.raite.car.sdk/RaiteCar.ConnectState///PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-raite-car/-connect-state/index.html
 $dokka.location:com.raite.car.sdk/RaiteCar///PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-raite-car/index.html
 $dokka.location:com.raite.car.sdk/RaiteCar/CAR_TEST_SERVICE/#/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-raite-car/-c-a-r_-t-e-s-t_-s-e-r-v-i-c-e.html
@@ -48,11 +39,7 @@ $dokka.location:com.raite.car.sdk/TestManager/add/#int#int/PointingToDeclaration
 $dokka.location:com.raite.car.sdk/TestManager/divide/#double#double/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-test-manager/divide.html
 $dokka.location:com.raite.car.sdk/TestManager/square/#int/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-test-manager/square.html
 $dokka.location:com.raite.car.sdk/TestManager/stopSubService/#/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-test-manager/stop-sub-service.html
-$dokka.location:com.raite.car.sdk/XXXManagerTest///PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-x-x-x-manager-test/index.html
-$dokka.location:com.raite.car.sdk/XXXManagerTest/XXXManagerTest/#/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-x-x-x-manager-test/-x-x-x-manager-test.html
-$dokka.location:com.raite.car.sdk/XXXManagerTest/getTestManager/#/PointingToDeclaration/-raite-car-sdk/com.raite.car.sdk/[android-jvm]-x-x-x-manager-test/get-test-manager.html
 com.raite.car.sdk
 com.raite.car.sdk.coresystem
 com.raite.car.sdk.proc
-com.raite.car.sdk.sample
 
